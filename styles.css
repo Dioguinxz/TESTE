@@ -1,4 +1,41 @@
 html {
 
+    background-color:white;
     scroll-behavior: smooth;
 }
+
+
+* {
+    padding: 2px;
+    margin: 0px;
+}
+
+
+h1 {
+
+    text-align: center;
+}
+
+ul {
+  
+    display: flex;
+    font-size: 13pt;
+    list-style: none;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+ul li {
+  
+    text-decoration: none;
+    text-align: center;
+    padding-right: 8px;
+    
+
+}
+
+
+
